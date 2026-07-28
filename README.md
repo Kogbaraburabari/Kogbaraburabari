@@ -55,8 +55,3 @@ across fleet, driver, and safety operations.
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kogbaraburabari&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-</p>
